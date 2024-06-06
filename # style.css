@@ -1,8 +1,12 @@
-* {/*seletor universal para resetar as bordas da pagina*/
+* { /*seletor universal para resetar as bordas da pagina*/
 padding: 0px;
 margin:0px;
 }
-:root{/seletor raiz para variaveis*/
+:root{/selector raiz para variaveis*/
 --cor-de-fundo: #bcbcee;
 --cor-de-letra: #
+
+}
+body{/*selector body*/ 
+
 }
